@@ -30,9 +30,11 @@ This project aims to develop a machine learning model to predict diabetes using 
 
 ## Preview
 ### Dataset Preview
-![Dataset Preview](prev2.png)
-### Fuzzy K-Nearest Neighbors Formula & Accuracy Result
-![Dataset Preview](prev1.png) ![Dataset Preview](prev3.png)
+![Dataset Preview](prev01.png)
+### Correlation Matrix
+![Correlation](prev02.png)
+### Accuracy Result
+![Accuracy](prev03.png)
 
 ## Usage
 1. Clone the repository :
@@ -43,7 +45,7 @@ git clone https://github.com/DikkiKartajaya/DiabetesPrediction_KNN.git
 ```` Python
 pip install -r requirement.txt
 ````
-3. Run the Jupyter notebook Kidneydisease_FuzzyKNN.ipynb to train and evaluate the Fuzzy KNN model.
+3. Run the Jupyter notebook DiabetesPrediction_KNN.ipynb to train and evaluate the KNN model.
 
 ## Contribution :
 Contributions to the project are welcome! If you have any suggestions for improvement, feature requests, or bug reports, please feel free to open an issue or submit a pull request.
